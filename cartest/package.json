@@ -1,0 +1,14 @@
+{
+  "name": "cartest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Car.test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "solc": "^0.4.25"
+  }
+}
