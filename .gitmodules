@@ -1,0 +1,3 @@
+[submodule "ReduxSimpleStarter"]
+	path = ReduxSimpleStarter
+	url = https://github.com/batudal/ETH3.git
